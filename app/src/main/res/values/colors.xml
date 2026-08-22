@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_background">#000000</color>
+    <color name="black_primary">#FFFFFF</color>
+    <color name="black_secondary">#A0A0A0</color>
+    <color name="black_icon_container">#181818</color>
+    <color name="black_card_border">#202020</color>
+    <color name="brand_purple">#B400FF</color>
+    <color name="brand_blue">#00B4FF</color>
+
+    <color name="white_background">#FFFFFF</color>
+    <color name="white_primary">#111111</color>
+    <color name="white_secondary">#666666</color>
+    <color name="white_icon_container">#F3F4F6</color>
+    <color name="white_card_border">#E5E5E5</color>
+</resources>
