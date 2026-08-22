@@ -1,0 +1,18 @@
+{
+  "update": {
+    "enabled": true,
+    "version": "1.0.0",
+    "versionCode": 1,
+    "title": "Paprivo Update Available",
+    "message": "A new version of Paprivo is available.",
+    "changelog": [
+      "Added new PDF tools",
+      "Improved PDF creation",
+      "Improved performance",
+      "Bug fixes and stability improvements"
+    ],
+    "downloadUrl": "https://github.com/iabhii28/Paprivo/releases/latest",
+    "mandatory": false,
+    "showNotNow": true
+  }
+}
