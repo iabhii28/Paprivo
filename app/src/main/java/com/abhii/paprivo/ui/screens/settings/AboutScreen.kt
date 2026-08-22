@@ -102,7 +102,7 @@ fun AboutScreen(
                     )
                     Spacer(modifier = Modifier.height(2.dp))
                     Text(
-                        text = "Developed by ${AppConfig.DEVELOPER_NAME}",
+                        text = "Developed By AbhiI & Swastik",
                         fontSize = 13.sp,
                         color = colors.secondary
                     )
